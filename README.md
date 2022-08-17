@@ -29,4 +29,5 @@
             ],
     ```
 6. Unzip and move the GLFW and GLAD files, your workspace would look something like this:
-    ![Final Workspace](./final%20workspace.PNG)
+
+![Final Workspace](./final%20workspace.PNG)
