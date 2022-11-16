@@ -1,5 +1,5 @@
 # Learning OpenGL
-> Learning OpenGL 'cause I'm bored.
+
 
 ## Links
 - [OpenGL](https://learnopengl.com/)
